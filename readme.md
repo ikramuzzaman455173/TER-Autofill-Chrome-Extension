@@ -32,7 +32,7 @@ A **Chrome Extension** that automatically fills out **TER (Teacher Evaluation Re
 
 ## 🧰 Installation Guide
 
-### 🔽 Step 1: [Download TER Autofill Extension](./ter_autofill.zip)
+### 🔽 Step 1: [Download TER Autofill Extension](https://github.com/ikramuzzaman455173/TER-Autofill-Chrome-Extension/raw/main/ter_autofill.zip)
 - Click the link to **download the ZIP file**.
 
 ### 📂 Step 2: Load Extension in Chrome
@@ -51,7 +51,7 @@ A **Chrome Extension** that automatically fills out **TER (Teacher Evaluation Re
 ## 🎬 Video Tutorial
 📺 **Watch this short demo video** showing how to install and use the extension:
 
-[▶️ Watch the Tutorial](./ter-autofill-demo.mp4)
+[▶️ Watch the Tutorial](https://github.com/user-attachments/assets/f53eb535-2fc9-4836-99d1-fa04a21be1c8)
 
 ---
 
