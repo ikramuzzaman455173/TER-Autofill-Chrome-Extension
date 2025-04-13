@@ -1,5 +1,7 @@
 # TER Autofill Extension
 
+![TER Autofill Extension Banner](https://github.com/user-attachments/assets/21f63b76-6959-43ff-bb58-166f87dc6c4d)
+
 A **Chrome Extension** that automatically fills out **TER (Teacher Evaluation Report)** feedback forms with predefined responses, saving time and increasing efficiency.
 
 ---
