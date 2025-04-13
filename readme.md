@@ -49,7 +49,7 @@ A **Chrome Extension** that automatically fills out **TER (Teacher Evaluation Re
 ## 🎬 Video Tutorial
 📺 **Watch this short demo video** showing how to install and use the extension:
 
-[▶️ Watch the Tutorial](https://github.com/user-attachments/assets/f53eb535-2fc9-4836-99d1-fa04a21be1c8)
+[▶️ Watch the Tutorial](https://res.cloudinary.com/dwlyvnarn/video/upload/v1744561442/videos/ter-form-fillup-demo_o5gg2h.mp4)
 
 ---
 
